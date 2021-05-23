@@ -1,1 +1,2 @@
 Here is some core
+Here is some addition to core
